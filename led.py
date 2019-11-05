@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
-GPIO.setwarning(False)
+GPIO.setwarnings(False)
 GPIO.setup(18,GPIO.OUT)
 
 counter = 0
