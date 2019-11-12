@@ -12,4 +12,4 @@ while True:
         print ("HIGH")
     else:
         print ("LOW")
-    time.sleep(o.5)
+    time.sleep(0.5)
