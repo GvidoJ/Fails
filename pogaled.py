@@ -14,15 +14,13 @@ try:
     while True:
         button_state1 = GPIO.input(21)
         button_state2 = GPIO.input(20)
-        button_state3 = GPIO.input(16)
-    if button_state1 == GPIO.LOW:
-       button_state2 == GPIO.LOW:
-       button_state3 == GPIO.LOW:
-    print('LED 1 on')
-    GPIO.output(26,GPIO.HIGH)
-    GPIO.output(19,GPIO.HIGH)
-    GPIO.output(13,GPIO.HIGH)
-    time.sleep(1)
+        button_state3 = GPIO.input(16)   
+        if button_state1 == GPIO.LOW:
+            print('LED 1 on')
+            GPIO.output(26,GPIO.HIGH)
+            GPIO.output(19,GPIO.HIGH)
+            GPIO.output(13,GPIO.HIGH)
+            time.sleep(1)
     print ('Led off')
 except:
     GPIO.cleanup()
