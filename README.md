@@ -12,9 +12,9 @@ BME280 - Maza iekārta, ar kura palīdzību sensors var nolasīt laika, spiedien
 - Breadboard(1)
 
 **Apraksts par programmas darbību**
-Piespiež 1.Pogu, pēc kā 1. Diode ieslēgsies un parādīs pašlaika datus
-Piespiež 2.Pogu, pēc kā 2. Diode ieslēgsies un parādīs spiediena datus
-Piespiež 3.Pogu, pēc kā 3. Diode ieslēgsies un parādīs temperatūra datus
+-Piespiež 1.Pogu, pēc kā 1. Diode ieslēgsies un parādīs pašlaika datus
+-Piespiež 2.Pogu, pēc kā 2. Diode ieslēgsies un parādīs spiediena datus
+-Piespiež 3.Pogu, pēc kā 3. Diode ieslēgsies un parādīs temperatūra datus
 
 **Bilde ar prototipu**
 ![alt text](https://github.com/GvidoJ/Fails/blob/master/Prototips%20BME280.jpeg)
