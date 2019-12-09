@@ -32,10 +32,10 @@ Piespiež 1.Pogu, pēc kā 1. Diode ieslēgsies un parādīs pašlaika datus
 
 
 **Saites/materiāli, kas palīdzēja izveidot gan readme, gan wiki**
-*https://www.seeedstudio.com/blog/2019/11/21/which-temperature-sensor-to-pick-for-your-arduino-project/ (Sensori, kas arī vāc datus)
-*https://www.seeedstudio.com/blog/2019/11/01/getting-started-with-bme280-humidity-pressure-and-temperature-sensor/ (Kur BME280 var izmantot)
-*https://www.draw.io/ (Blokshēmas veidošanā)
-*Fritzing (Dzležu shēmas, savienojuma veidošanā) 
+https://www.seeedstudio.com/blog/2019/11/21/which-temperature-sensor-to-pick-for-your-arduino-project/ (Sensori, kas arī vāc datus).
+.https://www.seeedstudio.com/blog/2019/11/01/getting-started-with-bme280-humidity-pressure-and-temperature-sensor/ .(Kur BME280 var izmantot)
+.https://www.draw.io/ (Blokshēmas veidošanā).
+.Fritzing (Dzležu shēmas, savienojuma veidošanā). 
 
 
 
