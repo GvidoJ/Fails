@@ -15,7 +15,13 @@ BME280 - Maza iekārta, ar kura palīdzību sensors var nolasīt laika, spiedien
 - Raspberry Pi 3B+(1)
 - Breadboard(1)
 
+**Bilde ar prototipu**
+![alt text](https://github.com/GvidoJ/Fails/blob/master/Prototips%20BME280.jpeg)
+
+
 **Blokshēma**
 ![alt text](https://github.com/GvidoJ/Fails/blob/master/Bloksh%C4%93ma%20BME.png)
+
+
 
 
