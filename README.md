@@ -1,6 +1,6 @@
 
-**Iekārtas apraksts** 
-BME280 - Maza iekārta, ar kura palīdzību sensors var nolasīt laika, spiediena un temperatūras datus.
+**Projekts par BME280** 
+
 
 **Kas ir vajadzīgs veidojot temperatūras, spiediena un mitruma sensoru(*Jāņem vērā*)**
 - Diodes(3)
