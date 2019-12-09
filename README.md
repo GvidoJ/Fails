@@ -1,11 +1,11 @@
-Iekārtas apraksts
-Maza iekārta, vārdā BME280, kura pēc pogu nospiešanas no pirmās Diodes līdz trešajai iedegās un pēc kā no BME280 sensora nolasa temperatūras, barometrisko spiediena un mitruma datus.
+**Iekārtas apraksts**
+BME280 - Maza iekārta, ar kura palīdzību sensors var nolasīt laika, spiediena un temperatūras datus.
 
-Shēma dzelžiem
+**Shēma dzelžiem**
 
-Savienojums
+**Savienojums**
 
-Kas ir vajadzīgs veidojot temperatūras, barometrisko spiediena un mitruma sensoru
+**Kas ir vajadzīgs veidojot temperatūras, barometrisko spiediena un mitruma sensoru(*Jāņem vērā*)**
 - Diodes(3)
 - Rezistori(3)
 - Pogas(3)
@@ -13,3 +13,5 @@ Kas ir vajadzīgs veidojot temperatūras, barometrisko spiediena un mitruma sens
 - BME280(1)
 - Raspberry Pi 3B+(1)
 - Breadboard(1)
+
+**Bilde ar prototipu**
