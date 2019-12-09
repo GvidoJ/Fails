@@ -16,7 +16,7 @@ BME280 - Maza iekārta, ar kura palīdzību sensors var nolasīt laika, spiedien
 - Breadboard(1)
 
 **Bilde ar prototipu**
-![alt text](https://github.com/GvidoJ/Fails/blob/master/Prototips%20BME280.jpeg)
+![alt text](https://github.com/GvidoJ/Fails/blob/master/Prototips%20BME280%20%231.jpeg)
 
 
 **Blokshēma**
