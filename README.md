@@ -25,10 +25,10 @@ Piespiež 1.Pogu, pēc kā 1. Diode ieslēgsies un parādīs pašlaika datus
 
 
 **Shēma dzelžiem**
-
+![alt text](https://github.com/GvidoJ/Fails/blob/master/Sh%C4%93ma%20dzel%C5%BEiem.png)
 
 **Savienojums**
-
+![alt text](https://github.com/GvidoJ/Fails/blob/master/Savienojums%20BME280.png)
 
 
 **Saites/materiāli, kas palīdzēja izveidot gan readme, gan wiki**
